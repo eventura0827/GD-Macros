@@ -2,7 +2,7 @@
 If you find this, I'll be damned! This is my first repository! There will be A LOT more macros.
 
 # Requirements
-https://github.com/ToastexGD/ToastyReplay/releases
+<a href="https://github.com/ToastexGD/ToastyReplay/releases">ToastyReplay</a>
 
 240 FPS/TPS
 
